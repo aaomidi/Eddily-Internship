@@ -3,7 +3,9 @@
     <v-row>
       <v-col md4>
         <v-card class="mr-2">
-          <v-card-row :img="listing.logo" height="300px"></v-card-row>
+          <v-card-row>
+            <img :src="listing.logo" class="listing-logo">
+          </v-card-row>
           <v-card-title class="green white--text">{{ listing.company }}</v-card-title>
         </v-card>
       </v-col>
@@ -42,5 +44,9 @@
 <style scoped>
   .card__title {
     letter-spacing: normal;
+  }
+  .listing-logo {
+    width: 100%;
+    padding: 1em;
   }
 </style>
