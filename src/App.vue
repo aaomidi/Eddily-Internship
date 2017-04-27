@@ -4,7 +4,7 @@
       <v-container>
         <router-link to="/">
           <v-toolbar-title>
-            Job Thing
+            Eddily Internship
           </v-toolbar-title>
         </router-link>
         <v-spacer></v-spacer>
