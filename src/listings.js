@@ -1,7 +1,7 @@
 export default [
     {
         "company": "Eddily",
-        "logo": "http://app.eddily.com/images/logo-eddily-color.svg",
+        "logo": "https://i.imgur.com/C5vNC2d.png",
         "position": "Software Developer",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eget tincidunt elit, nec gravida risus. Sed rhoncus nisl vitae tincidunt facilisis. In congue vitae ex vitae feugiat. Sed sodales ante quis mauris  venenatis, eget elementum purus malesuada. Suspendisse et pellentesque sem. Nam nec eros commodo, cursus mi a, malesuada felis.",
         "location": "San Francisco, CA",

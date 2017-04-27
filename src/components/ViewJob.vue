@@ -3,7 +3,7 @@
     <v-row>
       <v-col md4>
         <v-card class="mr-2">
-          <v-card-row :img="listing.logo" height="300px"></v-card-row>
+          <v-card-row :img="listing.logo" height="auto"></v-card-row>
           <v-card-title class="green white--text">{{ listing.company }}</v-card-title>
         </v-card>
       </v-col>
